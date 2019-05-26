@@ -1,0 +1,7 @@
+set confirm off
+file a.out
+b 9
+condition 1 i<0
+r 1000
+print y
+quit

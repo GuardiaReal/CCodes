@@ -1,0 +1,5 @@
+iload x
+iconst 3
+isub
+iload z
+imul

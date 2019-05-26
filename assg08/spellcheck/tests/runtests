@@ -1,0 +1,6 @@
+spellcheck 
+spellcheck -d -d 
+spellcheck -d tests/words.txt -i
+spellcheck -d tests/words.txt -i -i
+spellcheck -d tests/words.txt -i tests/test1 -u
+spellcheck -d tests/words.txt -i tests/test1

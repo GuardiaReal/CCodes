@@ -1,0 +1,4 @@
+./myls 
+./myls tests
+./myls ksdjcbs
+./myls tests ../

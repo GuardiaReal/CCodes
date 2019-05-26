@@ -1,0 +1,3 @@
+iload x
+bfviconst 2
+imul

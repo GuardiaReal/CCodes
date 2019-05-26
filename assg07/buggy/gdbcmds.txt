@@ -1,0 +1,7 @@
+set confirm off
+file a.out
+run pqrst buggy-match.c 
+where
+print p
+quit
+

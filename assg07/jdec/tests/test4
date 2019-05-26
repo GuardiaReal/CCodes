@@ -1,0 +1,3 @@
+iload x
+iconst 5
+idiv
